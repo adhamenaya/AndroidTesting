@@ -1,2 +1,2 @@
 # AndroidTesting
-Learn android testing
+Study android testing
